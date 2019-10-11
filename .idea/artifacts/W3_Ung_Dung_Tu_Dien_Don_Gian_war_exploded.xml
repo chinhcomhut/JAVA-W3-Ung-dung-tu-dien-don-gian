@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="W3 Ung Dung Tu Dien Don Gian:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/W3_Ung_Dung_Tu_Dien_Don_Gian_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="W3 Ung Dung Tu Dien Don Gian/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="W3 Ung Dung Tu Dien Don Gian" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
